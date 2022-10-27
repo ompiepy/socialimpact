@@ -1,0 +1,4 @@
+- identify potential solutions
+- choose the most promising one
+- Details about solutions that the team considered
+- why you chose the one you did
